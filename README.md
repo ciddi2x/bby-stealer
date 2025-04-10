@@ -8,11 +8,11 @@ t.me/dxlstealer
 # bbystealer
 The new modern discord token grabber & token stealer, with discord password & token even when it changes
 
-# Terms
-- [x] Educational purpose only
-- [x] Reselling is forbidden
-- [ ] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
-- [x] We are NOT responsible of anything you do with our software (if its illegal)
+1- Python + nodejs Dowload
+2- your webhook replace for webhook url.txt
+3- run install.py
+4- extract to folder.zip run the exe in the file
+
 
 # Features
 - QRCode logger 
